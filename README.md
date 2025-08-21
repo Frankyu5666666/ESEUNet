@@ -12,7 +12,7 @@ Compared to the SOTA lightweight and heavy models, our ESE-UNet remains dominant
     </div>
     <div>
       <img src="ESEUNet_vs_heavy_sota.png" alt="ESE-UNet vs Heavyweight SOTAs" width="600" height="400">
-      <p>ESE-UNet remains favourable when compared to UNet, Tiny-UNet, UNetv2, ESKNet, and TransUNet.
+      <p>ESE-UNet remains favourable even when it is compared to UNet, Tiny-UNet, UNetv2, ESKNet, and TransUNet.
     </div>
   </div>
 </p>

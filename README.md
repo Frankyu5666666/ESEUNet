@@ -8,11 +8,11 @@ Compared to the SOTA lightweight and heavy models, our ESE-UNet remains dominant
   <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <div>
       <img src="ESEUNet_vs_light_sota.png" alt="ESE-UNet vs Lightweight SOTAs" width="600" height="400">
-      <p> ESE-UNet is light yet better when compared to the latest LBUNet, UltraVMUNet.
+      <p> ESE-UNet is minimally light yet better when compared to the latest LBUNet, UltraVMUNet, with only 10 KB parameters. 
     </div>
     <div>
       <img src="ESEUNet_vs_heavy_sota.png" alt="ESE-UNet vs Heavyweight SOTAs" width="600" height="400">
-      <p>ESE-UNet remains favourable even when it is compared to UNet, Tiny-UNet, UNetv2, ESKNet, and TransUNet.
+      <p>ESE-UNet within 1 M parameters remains favourable even when it is compared to UNet, Tiny-UNet, UNetv2, ESKNet, and TransUNet.
     </div>
   </div>
 </p>

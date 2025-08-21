@@ -7,7 +7,7 @@ Compared to the SOTA lightweight and heavy models, our ESE-UNet remains dominant
 <p align="center">
   <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <div>
-      <img src="ESEUNet_vs_light_sota.png" alt="ESE-UNet vs Lightweight SOTAs" width="600" height="400">
+      <img src="ESEUNet_vs_light_sota.png" alt="ESE-UNet vs Lightweight SOTAs across seven datasets, including a merged breast dataset, DDTI and ISIC2016, ISIC2017 and ISIC2018" width="600" height="400">
       <p> ESE-UNet is minimally light yet better when compared to the latest LBUNet, UltraVMUNet, with only 10 KB parameters. 
     </div>
     <div>
